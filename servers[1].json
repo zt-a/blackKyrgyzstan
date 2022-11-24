@@ -1,0 +1,17 @@
+[
+    {
+      "color": "ff0000",
+      "dopname": "(X2 акция)",
+      "maxonline": 50,
+      "name": "BlackKyrgyzstan",
+      "online": 49
+    },
+    {
+      "color": "ffffff",
+      "dopname": "(test)",
+      "maxonline": 2,
+      "name": "Test",
+      "online": 2
+    }
+  ]
+
